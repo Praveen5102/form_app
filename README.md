@@ -36,12 +36,12 @@ This Flutter application is designed to showcase a multi-step form with differen
 
    ```bash
    flutter pub get
-```
+   ```
 4.**Run the Application
 
-```bash
+   ```bash
    flutter run
-```
+   ```
 
 ### Usage
 
@@ -106,5 +106,44 @@ This Flutter application is designed to showcase a multi-step form with differen
 
 ## Application Output
 
+![sample Output](https://github.com/Praveen5102/form_app/blob/main/assests/output.jpeg)
+
+
+## Customization
+
+**To customize the app further:**
+    - Modify `lib/main.dart` file to adjust form fields or add new fuctionality.
+    - Update the styling in the 'theme' section to match your desired look and feel.
+
+## Contributting 
+
+   1.Fork the Repository
+   
+   2.Create a Feature Branch
+     
+      ```bash
+      git checkout -b feature/new-feature
+      ```
+   3.Commit Your Changes
+
+      ```bash
+      git commit -am 'Add new feature'
+      ```
+   4.Push to the Branch 
+    
+      ```bash
+      git push origin feature/new-feature
+      ```
+   5.Create a Pull Request
+
+## License
+
+   - This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+   - Flutter Team for their amazing framework.
+   - Contributions from the open-source community.
+   
 
 
