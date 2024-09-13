@@ -24,24 +24,26 @@ This Flutter application is designed to showcase a multi-step form with differen
 
    1. **Clone the Repository**
 
-      ```bash
+ ```bash
       git clone https://github.com/praveen5102/form_app.
+ ```
 
    2. **Navigate to Project Directory**
 
-      ```bash
+   ```bash
       cd form_app
-
+  ```
+   
    3.**Install Dependencies**
 
-      ```bash
+   ```bash
       flutter pub get
-      ```
+   ```
    4.**Run the Application
 
-      ```bash
+   ```bash
       flutter run
-      ```
+   ```
 
 ### Usage
 
