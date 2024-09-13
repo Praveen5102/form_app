@@ -22,26 +22,26 @@ This Flutter application is designed to showcase a multi-step form with differen
 
 ### Installation
 
-1. **Clone the Repository**
+   1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/praveen5102/form_app.
+      ```bash
+      git clone https://github.com/praveen5102/form_app.
 
-2. **Navigate to Project Directory**
+   2. **Navigate to Project Directory**
 
-   ```bash
-   cd form_app
+      ```bash
+      cd form_app
 
-3.**Install Dependencies**
+   3.**Install Dependencies**
 
-   ```bash
-   flutter pub get
-   ```
-4.**Run the Application
+      ```bash
+      flutter pub get
+      ```
+   4.**Run the Application
 
-   ```bash
-   flutter run
-   ```
+      ```bash
+      flutter run
+      ```
 
 ### Usage
 
@@ -115,26 +115,45 @@ This Flutter application is designed to showcase a multi-step form with differen
     - Modify `lib/main.dart` file to adjust form fields or add new fuctionality.
     - Update the styling in the 'theme' section to match your desired look and feel.
 
-## Contributting 
+## Contributting
 
-   1.Fork the Repository
-   
-   2.Create a Feature Branch
-     
-      ```bash
-      git checkout -b feature/new-feature
-      ```
-   3.Commit Your Changes
+1. **Fork the Repository**
+   - Click the "Fork" button at the top right of the repository page on GitHub to create your own copy of the repository.
 
-      ```bash
-      git commit -am 'Add new feature'
-      ```
-   4.Push to the Branch 
-    
-      ```bash
-      git push origin feature/new-feature
-      ```
-   5.Create a Pull Request
+2. **Create a Feature Branch**
+   - Clone your forked repository to your local machine if you haven't already:
+     ```bash
+     git clone https://github.com/your-username/repository-name.git
+     ```
+   - Navigate to the project directory:
+     ```bash
+     cd repository-name
+     ```
+   - Create a new feature branch:
+     ```bash
+     git checkout -b feature/new-feature
+     ```
+
+3. **Commit Your Changes**
+   - Make your changes and commit them with a descriptive message:
+     ```bash
+     git add .
+     git commit -m 'Add new feature'
+     ```
+
+4. **Push to the Branch**
+   - Push your changes to your forked repository:
+     ```bash
+     git push origin feature/new-feature
+     ```
+
+5. **Create a Pull Request**
+   - Go to the original repository on GitHub.
+   - Click on the "Pull Requests" tab.
+   - Click the "New Pull Request" button.
+   - Select the branch you pushed to from your forked repository.
+   - Add a title and description for your pull request.
+   - Click "Create Pull Request" to submit it for review.
 
 ## License
 
